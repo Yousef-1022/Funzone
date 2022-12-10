@@ -1,0 +1,7 @@
+GasStation0;GasStation1;250
+GasStation1;GasStation2;100
+GasStation2;GasStation3;300
+GasStation3;GasStation4;20
+GasStation4;GasStation5;400
+GasStation5;GasStation6;200
+GasStation6;GasStation7;100

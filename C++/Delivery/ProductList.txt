@@ -1,0 +1,7 @@
+Phones;GasStation1
+Laptops;GasStation2
+Candies;GasStation3
+Computers;GasStation4
+Tables;GasStation5
+Chairs;GasStation6
+Books;GasStation7

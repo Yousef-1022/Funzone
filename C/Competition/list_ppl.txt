@@ -1,0 +1,10 @@
+Yousef;Friend Tree;1
+Adam;Friend Tree;3
+Joe;Snake Creek;9
+Cole;Snake Creek;4
+Candel;Horse;6
+x1;Sula;4
+x2;Sula;78
+x3;Sula;99
+L1;Pasture;90
+L2;Pasture;91

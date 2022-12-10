@@ -1,0 +1,17 @@
+12
+Service 500
+Lucky 1000
+Service 500
+Property prp1 
+Property prp2 
+Property prp3
+Lucky 1000
+Property prp4
+Property prp5
+Property prp6
+Property prp7
+Service 500
+3
+Player1 Greedy
+Player2 Tactical
+Plyaer3 Careful

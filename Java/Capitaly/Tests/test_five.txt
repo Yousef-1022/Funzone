@@ -1,0 +1,12 @@
+8
+Service 1000
+Lucky 1000
+Service 1000
+Property prp1 
+Property prp2 
+Property prp3
+Lucky 1000
+Property prp4
+2
+Player1 Greedy
+Player2 Tactical

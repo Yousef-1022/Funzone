@@ -1,0 +1,9 @@
+4
+Property prp1
+Property prp2
+Property prp3
+Property prp4
+3
+Player1 Greedy
+Player2 Tactical 
+Player3 Careful
